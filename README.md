@@ -34,7 +34,7 @@ Visualization: Plotly, Matplotlib, Seaborn
 Deployment: Streamlit
 
 🏁 Getting Started
-Clone the repository: git clone https://github.com/your-username/urban-logistics-eta.git
+Clone the repository: git clone https://github.com/shivamsde/Predictive-ETA-Framework-for-Urban-Logistics-eta.git
 
 Install dependencies: pip install -r requirements.txt
 
